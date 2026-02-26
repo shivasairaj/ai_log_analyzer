@@ -1,0 +1,37 @@
+# Core Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Database
+SQLAlchemy==2.0.25
+
+# Real-time Log Monitoring
+watchdog==3.0.0
+
+# GeoIP Intelligence
+geoip2==4.8.0
+
+# Email Alerts
+yagmail==0.15.293
+
+# Authentication / Security
+bcrypt==4.1.2
+
+# Production Deployment
+gunicorn==21.2.0
+
+# Optional Advanced ML (future upgrade)
+xgboost==2.0.3
+lightgbm==4.3.0
